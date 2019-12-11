@@ -16,10 +16,13 @@ sidebar:
       url: '#three'
     - is_primary: false
       title: Marketing
+      url: '#four'
     - is_primary: false
       title: Finance
+      url: '#five'
     - is_primary: false
       title: Link to GitHub page
+      url: '#six'
 sections:
   - actions:
       - is_primary: false
