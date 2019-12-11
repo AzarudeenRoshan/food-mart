@@ -80,11 +80,9 @@ sections:
         title: Aliquam urna dapibus
     section_id: two
     subtitle: >-
-      Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis
-      mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget
-      hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit
-      quis lorem.
-    title: What we do
+      # _“To Compare and provide the finest grocery product in online, within
+      the budget.”_
+    title: Vision
     type: features
   - background_style: style1
     component: contact.html
