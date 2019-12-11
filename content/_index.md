@@ -27,7 +27,7 @@ sections:
   - actions:
       - is_primary: false
         is_scrolly: true
-        label: Learn more
+        label: Join Us
         url: '#one'
     background_style: style2
     component: intro.html
