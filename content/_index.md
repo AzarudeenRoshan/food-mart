@@ -29,13 +29,11 @@ sections:
         is_scrolly: true
         label: Learn more
         url: '#one'
-    background_style: style1
+    background_style: style2
     component: intro.html
     section_id: intro
-    subtitle: |-
-      Cras aliquam amet adipiscing nibh faucibus suscipit ut Parturient  
-      col accumsan est arcu donec sed Eleifend Integer.
-    title: Hyperspace
+    subtitle: Best Grocery Product At Best Price
+    title: Food Mart
     type: intro
   - background_style: style2
     component: spotlights.html
