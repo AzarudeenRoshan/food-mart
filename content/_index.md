@@ -32,7 +32,7 @@ sections:
     background_style: style2
     component: intro.html
     section_id: intro
-    subtitle: Best Grocery Product At Best Price
+    subtitle: '## _Best Grocery Product At Best Price_'
     title: Food Mart
     type: intro
   - background_style: style2
